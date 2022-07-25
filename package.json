@@ -1,0 +1,23 @@
+{
+  "name": "eth_getlogs-performance.nosync",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Boyuan-Chen/eth_getLogs-performance.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Boyuan-Chen/eth_getLogs-performance/issues"
+  },
+  "homepage": "https://github.com/Boyuan-Chen/eth_getLogs-performance#readme",
+  "dependencies": {
+    "dotenv": "^16.0.1",
+    "ethers": "^5.6.9"
+  }
+}
